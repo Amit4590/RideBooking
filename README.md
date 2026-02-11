@@ -105,7 +105,7 @@ php artisan serve
 ---
 
 ### Swagger Documentation
-After running the project, open his to test the api:
+After running the project, open this URL to test the api:
 ```bash
 http://127.0.0.1:8000/api/documentation
 ```
